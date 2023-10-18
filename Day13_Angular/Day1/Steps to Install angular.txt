@@ -1,0 +1,26 @@
+Visit : https://angular.io/
+
+Visit :  https://nodejs.org/en/
+
+E:\>node -v
+v14.15.1
+Download and Install 
+
+npm gets installed by default with nodejs
+E:\npm
+6.14.8
+
+Install angular
+npm install -g @angular/cli
+
+
+-----------------------------------------
+Editor : Visual Studio Code
+Install Visual Studio Code
+
+Visit :
+https://code.visualstudio.com/download
+
+Download and Install 
+
+

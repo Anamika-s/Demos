@@ -1,0 +1,5 @@
+demo-job-1:
+    tags:
+      - test1
+    script:
+      - echo Hello World

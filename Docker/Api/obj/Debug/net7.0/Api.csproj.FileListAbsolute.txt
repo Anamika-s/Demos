@@ -1,0 +1,7 @@
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anami\CGI-20thJuly\Docker\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
